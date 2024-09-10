@@ -1,0 +1,13 @@
+Recomendação: 
+
+A transação "9c" deve ser redirecionada para o "Setor Anti-Fraude" para uma investigação mais 
+aprofundada, e o cliente deve ser notificado sobre a situação suspeita do pagamento feito no 
+estabelecimento "Esporte C" no valor de "R$1103,00". Recomendamos também a realização de uma 
+"Verificação Manual" para garantir a autenticidade da transação. 
+
+Dados os detalhes fornecidos da transação suspeita de fraude, essa transação pode ser classificada 
+como "Fraude de Cartão de Crédito" - visto a aquisição de um único item de valor alto em horário
+ não comercial, situação comum nesse tipo de fraude. 
+
+É essencial entrar em contato com o cliente para verificar se o mesmo reconhece a transação, 
+reduzindo assim o risco de uma possível fraude e mantendo a segurança do mesmo.
